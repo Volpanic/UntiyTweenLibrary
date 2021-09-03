@@ -1,0 +1,20 @@
+{
+  "name": "com.volpanic.customtweenlibrary",
+  "version": "0.0.1",
+  "displayName": "Custom Tween Library",
+  "description": "Custom tweening library for Unity, primarily for UI.",
+  "unity": "2020.3",
+  "unityRelease": "5f1",
+  "keywords": [
+    "Tweening",
+    "Tween",
+    "Library",
+    "Volpanic"
+  ],
+  "author": {
+    "name": "Volpanic",
+    "email": "VolpanicStudios@gmail.com",
+    "url": "https://github.com/Volpanic"
+  },
+  "type": "tool"
+}
