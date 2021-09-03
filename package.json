@@ -1,6 +1,6 @@
 {
   "name": "com.volpanic.customtweenlibrary",
-  "version": "0.0.2",
+  "version": "0.0.25",
   "displayName": "Custom Tween Library",
   "description": "Custom tweening library for Unity, primarily for UI.",
   "unity": "2020.3",

@@ -56,8 +56,8 @@ namespace Volpanic.UITweening
                     position.x = tweenData.EasingFunction(currentPosition.x, startPos.x, timer / tweenData.Duration);
                     position.y = tweenData.EasingFunction(currentPosition.y, startPos.y, timer / tweenData.Duration);
                     position.z = tweenData.EasingFunction(currentPosition.z, startPos.z, timer / tweenData.Duration);
-                    rectTransform.position = position;
 
+                    rectTransform.position = position;
                     yield return null;
                 }
             }
